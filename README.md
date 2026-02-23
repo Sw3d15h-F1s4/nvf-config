@@ -33,6 +33,6 @@ There's other ways too, check out [nvf's docs](https://nvf.notashelf.dev/).
 
 ## My NixOS Config
 
-You can find my nixos config [here](https://www.github.com/Sw3d15h-F1s4/nixos).
+You can find my nixos config [here](https://codeberg.org/Sw3d15h-F1s4/nixos).
 
 
